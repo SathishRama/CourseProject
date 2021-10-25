@@ -1,3 +1,6 @@
 # CourseProject
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+This project is part of the CS410 Fall21 course. 
+
+# Project Topic 
+Retrieving & ranking customer communication/complaints for optimal routing & resolution of customer concerns
