@@ -27,3 +27,7 @@ Below are Product & Sentiment/Churn and their respective query terms used.
  
  # To run this tool
  Download data & src folders and run main.py. This tool uses rank_bm25 library so you need to pip install that and other packages used in main.py
+
+# Sample Run & Output 
+
+![image](https://user-images.githubusercontent.com/26101449/144731847-98ade410-9591-4384-870a-fd2a817b3324.png)
