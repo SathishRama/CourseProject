@@ -24,6 +24,8 @@ Below are Product & Sentiment/Churn and their respective query terms used.
  5. The ranked complaints are written to a output file with product tags and scores for reference"
  6. In addition to writing to output file, the tool displays top 5 complaints for the year & month entered and the scores.
  
+ # Oppurtunities to Improve
+There is oppurtunity to re-design/improve scoring. Since the tool uses bm25 query ranker, if a complaint has large comments( more total words )and less use of query terms then the score for the product will be less and accordingly if a complaint uses query term more often and has overall less comments(less total words) the score will be high.
  
  # To run this tool
  Download data & src folders and run main.py. This tool uses rank_bm25 library so you need to pip install that and other packages used in main.py
